@@ -590,7 +590,7 @@ body {
 }
 .home .btn {
 	background: #45ac9d;
-	color: #fff;
+	/*color: #fff;*/
 	font: bold 1.17em/2.77 'Montserrat', 'OpenSans', Arial, sans-serif;
 	display: inline-block;
 	height: 55px;
